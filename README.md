@@ -45,7 +45,7 @@
 ## 🚀 Quick Start
 
 1. **Clone this repository**
-2. **Open in Xcode 18+**
+2. **Open in Xcode 26+**
 3. **Build & Run** on an iOS 18+ device or simulator
 4. **Enter your Real-Debrid API Key** in the app settings
 5. **Enjoy full access to your Real-Debrid data!**
