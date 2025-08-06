@@ -1,6 +1,6 @@
 //
 //  RDAccount.swift
-//  RD-Monitor
+//  RD-Monitor for iOS
 //
 //  Created by Jean-Pierre Hermans on 28/05/2025.
 //
