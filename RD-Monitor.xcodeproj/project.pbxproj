@@ -21,6 +21,11 @@
 			path = "RD-Monitor";
 			sourceTree = "<group>";
 		};
+		85DEBFC92E43175300516C05 /* docs */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = docs;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +45,7 @@
 				85C02B312DE754170002E31D /* RD-Monitor */,
 				85C02B302DE754170002E31D /* Products */,
 				85DEBFC72E43128900516C05 /* README.md */,
+				85DEBFC92E43175300516C05 /* docs */,
 			);
 			sourceTree = "<group>";
 		};
@@ -68,6 +74,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				85C02B312DE754170002E31D /* RD-Monitor */,
+				85DEBFC92E43175300516C05 /* docs */,
 			);
 			name = "RD-Monitor";
 			packageProductDependencies = (
